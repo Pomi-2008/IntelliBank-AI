@@ -1,0 +1,17 @@
+com/example/intellibank/ai/AssistantService.class
+com/example/intellibank/transaction/TransactionRepository.class
+com/example/intellibank/transaction/TransactionDto.class
+com/example/intellibank/IntelliBankApplication.class
+com/example/intellibank/config/WebConfig.class
+com/example/intellibank/transfer/TransferController.class
+com/example/intellibank/ai/AssistantRequest.class
+com/example/intellibank/transaction/BankTransaction.class
+com/example/intellibank/transfer/TransferService.class
+com/example/intellibank/account/AccountRepository.class
+com/example/intellibank/config/HealthController.class
+com/example/intellibank/account/AccountController.class
+com/example/intellibank/config/DemoData.class
+com/example/intellibank/config/ApiExceptionHandler.class
+com/example/intellibank/transfer/TransferRequest.class
+com/example/intellibank/account/Account.class
+com/example/intellibank/ai/AssistantController.class

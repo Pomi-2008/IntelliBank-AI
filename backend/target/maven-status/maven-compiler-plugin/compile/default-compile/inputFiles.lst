@@ -1,0 +1,17 @@
+/Users/poulomi/Documents/Codex/2026-10-22/intellibank-ai/backend/src/main/java/com/example/intellibank/IntelliBankApplication.java
+/Users/poulomi/Documents/Codex/2026-10-22/intellibank-ai/backend/src/main/java/com/example/intellibank/account/Account.java
+/Users/poulomi/Documents/Codex/2026-10-22/intellibank-ai/backend/src/main/java/com/example/intellibank/account/AccountController.java
+/Users/poulomi/Documents/Codex/2026-10-22/intellibank-ai/backend/src/main/java/com/example/intellibank/account/AccountRepository.java
+/Users/poulomi/Documents/Codex/2026-10-22/intellibank-ai/backend/src/main/java/com/example/intellibank/ai/AssistantController.java
+/Users/poulomi/Documents/Codex/2026-10-22/intellibank-ai/backend/src/main/java/com/example/intellibank/ai/AssistantRequest.java
+/Users/poulomi/Documents/Codex/2026-10-22/intellibank-ai/backend/src/main/java/com/example/intellibank/ai/AssistantService.java
+/Users/poulomi/Documents/Codex/2026-10-22/intellibank-ai/backend/src/main/java/com/example/intellibank/config/ApiExceptionHandler.java
+/Users/poulomi/Documents/Codex/2026-10-22/intellibank-ai/backend/src/main/java/com/example/intellibank/config/DemoData.java
+/Users/poulomi/Documents/Codex/2026-10-22/intellibank-ai/backend/src/main/java/com/example/intellibank/config/HealthController.java
+/Users/poulomi/Documents/Codex/2026-10-22/intellibank-ai/backend/src/main/java/com/example/intellibank/config/WebConfig.java
+/Users/poulomi/Documents/Codex/2026-10-22/intellibank-ai/backend/src/main/java/com/example/intellibank/transaction/BankTransaction.java
+/Users/poulomi/Documents/Codex/2026-10-22/intellibank-ai/backend/src/main/java/com/example/intellibank/transaction/TransactionDto.java
+/Users/poulomi/Documents/Codex/2026-10-22/intellibank-ai/backend/src/main/java/com/example/intellibank/transaction/TransactionRepository.java
+/Users/poulomi/Documents/Codex/2026-10-22/intellibank-ai/backend/src/main/java/com/example/intellibank/transfer/TransferController.java
+/Users/poulomi/Documents/Codex/2026-10-22/intellibank-ai/backend/src/main/java/com/example/intellibank/transfer/TransferRequest.java
+/Users/poulomi/Documents/Codex/2026-10-22/intellibank-ai/backend/src/main/java/com/example/intellibank/transfer/TransferService.java
